@@ -1,0 +1,5 @@
+m = int(input(9900))
+s = int(input(55600))
+k = int(input(3999))
+p = int(input(2990))
+print((m+s+k+p)*3)

@@ -1,0 +1,5 @@
+a = int(input(25))
+V = int(input(a**3))
+S = int(input(6*a**2))
+print('Объем', V, sep=' = ')
+print('Площадь полной поверхности', S, sep=' = ')

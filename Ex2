@@ -1,0 +1,4 @@
+q = int(input(9))
+p = int(input(11))
+r = int(input(2))
+print(q+p+r)

@@ -1,0 +1,5 @@
+d = int(input(2))
+s = int(input(7))
+print('2 + 7 = ', d+s)
+print('2 - 7 = ', d-s)
+print('2 * 7 = ', d*s)
